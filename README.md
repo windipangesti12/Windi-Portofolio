@@ -1,7 +1,7 @@
-# Windi's Project Portfolio
-Hi there! This documentation is like a brief description of my project in the data field, showcasing my skills and knowledge in this area.
+#  🗺 Windi's Portfolio
+Hi there, welcome to my portfolio!!
 
-**Table of Contens :**
+## 📚 Table of Contents
 - [Python: Data Analysis and Machine Learning](https://github.com/windipangesti12/Windi-Portofolio#-Python:-Data-Analysis-and-Machine-Learning)
 - [SQL](https://github.com/windipangesti12/Windi-Portofolio#-SQL)
 - [Dashboard](https://github.com/windipangesti12/Windi-Portofolio#-Dashboard)
