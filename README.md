@@ -2,9 +2,9 @@
 Hi there! This documentation is like a quick snapshot of my project in the data field, showing off my skills and know-how in this area.
 
 **Table of Contens :**
-- [Python: Data Analysis and Machine Learning]
-- [SQL]
-- [Dashboard]
+- [Python: Data Analysis and Machine Learning](https://github.com/windipangesti12/Windi-Portofolio#-Python:-Data-Analysis-and-Machine-Learning)
+- [SQL](https://github.com/windipangesti12/Windi-Portofolio#-SQL)
+- [Dashboard](https://github.com/windipangesti12/Windi-Portofolio#-Dashboard)
 - [Completed Course and Certification](https://github.com/windipangesti12/Windi-Portofolio#-Completed-Course-and-Certification)
 <br>
 <br>
