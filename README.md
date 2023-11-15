@@ -7,7 +7,6 @@ Hi there, welcome to my portfolio!!
 - [Dashboard](https://github.com/windipangesti12/Windi-Portofolio#-Dashboard)
 - [Completed Course and Certification](https://github.com/windipangesti12/Windi-Portofolio#-Completed-Course-and-Certification)
 <br>
-<br>
 
 ### 📂 Python: Data Analysis and Machine Learning
 
