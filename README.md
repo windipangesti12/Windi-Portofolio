@@ -4,6 +4,8 @@ Hi there! This documentation is like a quick snapshot of my project in the data 
 **Table of Contens :**
 - [Python: Data Analysis and Machine Learning]
 - [SQL]
+- [Dashboard]
+- [Completed Course and Certification](https://github.com/windipangesti12/Windi-Portofolio#-Completed-Course-and-Certification)
 <br>
 <br>
 
