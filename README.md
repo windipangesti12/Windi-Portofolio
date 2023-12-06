@@ -15,11 +15,6 @@ Project Link | Associated | Area | Library | Project Description
 🛒 [Data preparation and Customer Analytics](https://github.com/windipangesti12/Quantium-Data-Analytics) | Virtual experience - Quantium Australia: Data Analytic Consulting | Data Wraggling, EDA |pandas, matplotlib, numpy, seaborn | Analyzing customer behavior based on transaction and consumer data from a retail company, particularly for chip products. Develop metrics and examine sales drivers to gain insights into overall sales performance. Create visualizations and prepare findings to formulate a clear recommendation for the client's strategy.
 📦 [Implementation Association rule and algoritma apriori to restaurant transactions data](https://github.com/windipangesti12/Association_rule_and_apriori_restaurant_transaction-data/blob/main/Association_rule.ipynb) |Final Project INDOMS school by kampus merdeka| Data analysis | pandas, numpy, matplotlib, apriori, association rules | Perform association rule mining using the Apriori algorithm to discover purchasing patterns of food items in a restaurant. Generate menu package recommendations to assist customers in selecting their meals.
 
-### 📂 SQL
-
-Project Link | Associated | Area | Tools | Project Description
----|---|---|---|---
-
 
 ### 📂 Dashboard
 
